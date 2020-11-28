@@ -1,1 +1,2 @@
-# My personal dotfile 🤺
+# 🐢 💨 My personal DOTFILES
+
